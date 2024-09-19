@@ -42,3 +42,5 @@ The backend of this application is built using [Spring Boot](https://spring.io/p
 3. **Access the Application**
 
 Open the HTML file (e.g., index.html) using any web browser to interact with the frontend of the application.      
+
+The backend API endpoints are available at http://localhost:8080/api/products
