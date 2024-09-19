@@ -28,5 +28,17 @@ The backend of this application is built using [Spring Boot](https://spring.io/p
 
    Run the following command to build the project:
 
-   ```bash
+   ```
    mvn clean install
+   ```
+
+2. **Run the Spring Boot Application**
+
+   Run the following command to run the application:
+
+   ```
+   mvn spring-boot:run
+   ```
+3. **Access the Application**
+
+Open the HTML file (e.g., index.html) using any web browser to interact with the frontend of the application.      
